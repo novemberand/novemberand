@@ -7,7 +7,7 @@
     - B.E in **Statistics** 📊
 
 #### Stack 🛠
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-sqaure&logo=Tableau&logoColor=white">
 
 #### Awards & Scholarships 🏆
 - `2021.08 ~ 2021.11` Grand Prize(1st), 2021 Mirae Asset Financial Big Data Festival
