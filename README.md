@@ -18,7 +18,7 @@
 
 #### Experiences 👊
 - `2020.09 ~ 2021.12` **✨Statistical Analysis Group P-SAT✨** at Dept. of Statistics, SKKU
-  - Vice President (2021.09 - 2021.12)
+  - Group Vice Manager (2021.09 - 2021.12)
   - Team Leader of Categorical Data Analysis team (2021.01 - 2021.06)
   - team member of Linear Algebra team (2020.09 - 2020.12)
  
