@@ -4,7 +4,7 @@
 
 #### Education ✏️
 - `2018.03 ~` Sungkyunkwan University Seoul, Korea
-  - B.E in **Statistics** 📊
+    B.E in **Statistics** 📊
 
 #### Tools 🛠
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
@@ -19,9 +19,9 @@
 
 #### Experiences 👊
 - `2020.09 ~ 2021.12` **✨Statistical Analysis Group P-SAT✨** at Dept. of Statistics, SKKU
-  - Group Vice Manager (2021.09 - 2021.12)
-  - Team Leader of Categorical Data Analysis team (2021.01 - 2021.06)
-  - team member of Linear Algebra team (2020.09 - 2020.12)
+  - Group vice manager (2021.09 - 2021.12)
+  - Team leader of Categorical Data Analysis team (2021.01 - 2021.06)
+  - Team member of Linear Algebra team (2020.09 - 2020.12)
  
 
 
