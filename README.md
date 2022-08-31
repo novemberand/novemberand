@@ -13,8 +13,9 @@
 - `2021.08 ~ 2021.11` Grand Prize(1st), 2021 Mirae Asset Financial Big Data Festival
 - `2021.01 ~ 2021.03` 1st Prize, 2020 LH COMPAS Osan-si Data Analysis Assignment
 - `2020.12 ~ 2021.02` Winning Prize, The 1st NH Investment & Securities Big Data Contest
-- `Spring, 2018` Academic Excellence Scholarship, half of tuition 
 - `Fall, 2021` Academic Excellence Scholarship, 70% of tuition
+- `Spring, 2018` Academic Excellence Scholarship, half of tuition 
+
 
 #### Experiences 👊
 - `2020.09 ~ 2021.12` **✨Statistical Analysis Group P-SAT✨** at Dept. of Statistics, SKKU
