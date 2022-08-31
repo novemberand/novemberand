@@ -6,8 +6,9 @@
 - `2018.03 ~` Sungkyunkwan University Seoul, Korea
     - B.E in **Statistics** 📊
 
-#### Tools 🛠
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+#### Stack 🛠
+Techs that I mainly use
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 
 #### Awards & Scholarships 🏆
 - `2021.08 ~ 2021.11` Grand Prize(1st), 2021 Mirae Asset Financial Big Data Festival
