@@ -1,6 +1,9 @@
 
 ## Hi there 👋
 
+안녕하세요, 데이터 분석과 통계학을 공부하고 있는 이지연입니다:D
+
+
 
 #### Education ✏️
 - `2018.03 ~` Sungkyunkwan University Seoul, Korea
@@ -8,7 +11,7 @@
 - `2022.02 - 2022.06` Vrije Universiteit Amsterdam, the Netherlands
     - Exchange Student 
 
-#### Stack 🛠
+#### Tech Stack 🛠
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-sqaure&logo=Tableau&logoColor=white">
 
 #### Awards & Scholarships 🏆
