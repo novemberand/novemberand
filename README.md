@@ -19,7 +19,7 @@
 - `2021.01 - 2021.03` 1st Prize, 2020 LH COMPAS Osan-si Data Analysis Assignment
 - `2020.12 - 2021.02` Winning Prize, The 1st NH Investment & Securities Big Data Contest
 - `Fall,2021` Academic Excellence Scholarship, 70% of tuition
-- `Spring,2018` Academic Excellence Scholarship, half of tuition 
+- `Spring,2019` Academic Excellence Scholarship, half of tuition 
 
 
 #### Experiences 👊
