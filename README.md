@@ -1,7 +1,8 @@
 
 ## Hi there 👋
 
-안녕하세요, 데이터 분석과 통계학을 공부하고 있는 이지연입니다:D
+Hi, I'm Jiyeon Lee studying data science and statistics. 
+Welcome to my github and if you wanna know more about me please feel free to see [my portfolio](https://jiyeon-portfolio.notion.site/JiYeon-s-Portfolio-a15ab549be3a47c3a0064be9375fb7b0). >_<
 
 
 
