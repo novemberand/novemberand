@@ -1,8 +1,8 @@
 
 ## Hi there 👋
 
-Hi, I'm Jiyeon Lee studying data science and statistics. 
-Welcome to my github and if you wanna know more about me please feel free to see [my portfolio](https://jiyeon-portfolio.notion.site/JiYeon-s-Portfolio-a15ab549be3a47c3a0064be9375fb7b0). >_<
+Hi, I'm Jiyeon Lee studying data science and statistics.   
+Welcome to my github and if you wanna know more about me please feel free to see [my portfolio](https://jiyeon-portfolio.notion.site/JiYeon-s-Portfolio-a15ab549be3a47c3a0064be9375fb7b0). :)
 
 
 
