@@ -5,6 +5,7 @@ Hi, I'm Jiyeon Lee studying data science and statistics.
 Welcome to my github and if you wanna know more about me please feel free to see [my portfolio](https://jiyeon-portfolio.notion.site/JiYeon-s-Portfolio-a15ab549be3a47c3a0064be9375fb7b0). :)
 
 
+<!--
 
 #### Education ✏️
 - `2018.03 ~` Sungkyunkwan University Seoul, Korea
@@ -30,8 +31,6 @@ Welcome to my github and if you wanna know more about me please feel free to see
   - Team member of Linear Algebra team (2020.09 - 2020.12)
  
 
-
-<!--
 **novemberand/novemberand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
