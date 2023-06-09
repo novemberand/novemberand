@@ -9,11 +9,11 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-sqaure&logo=Tableau&logoColor=white">
 
 #### Experiences & Awards
-`2020.09 - 2021.12` 성균관대학교 통계분석학회 P-SAT
-`2020.12 - 2021.02` 제 1회 NH투자증권 YZ세대 투자자 프로파일링 시각화 경진대회 입선상
-`2021.01 - 2021.03` LH 국토도시 데이터 분석과제 오산시 부문 최우수상(1위) 
-`2021.08 - 2021.11` 2021 미래에셋 빅데이터 페스티벌 대상
-'2022.09 - 2022.12` 2022년 제 10회 빅콘테스트 이노베이션 분야 최우수상 (제주관광공사장상) 
+`2020.09 - 2021.12` 성균관대학교 통계분석학회 P-SAT  
+`2020.12 - 2021.02` 제 1회 NH투자증권 YZ세대 투자자 프로파일링 시각화 경진대회 입선상  
+`2021.01 - 2021.03` LH 국토도시 데이터 분석과제 오산시 부문 최우수상(1위)   
+`2021.08 - 2021.11` 2021 미래에셋 빅데이터 페스티벌 대상  
+`2022.09 - 2022.12` 2022년 제 10회 빅콘테스트 이노베이션 분야 최우수상 (제주관광공사장상) 
 
 
 
