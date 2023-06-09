@@ -2,6 +2,19 @@
 ## Hi there 👋
 
 
+#### Education 
+`2018.03-2023.02` B.E in Statistics, Sungkyunkwan University Seoul, Korea  
+
+#### Tech Stack 
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-sqaure&logo=Tableau&logoColor=white">
+
+
+
+
+
+
+<!--
+
 
 #### Education ✏️
 - `2018.03 ~` Sungkyunkwan University Seoul, Korea
@@ -23,7 +36,7 @@
   - Team leader of Categorical Data Analysis team (2021.01 - 2021.06)
   - Team member of Linear Algebra team (2020.09 - 2020.12)
  
-<!--
+
 **novemberand/novemberand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
